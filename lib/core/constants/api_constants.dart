@@ -13,4 +13,5 @@ class ApiConstants {
   static const String lignes = '$baseUrl/ligne';
   static const String affectati1ons = '$baseUrl/affectation';
   static const String annonces = '$baseUrl/annonce';
+  static const String compte = '$baseUrl/compte';
 }
